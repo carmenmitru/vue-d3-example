@@ -6,4 +6,4 @@
 
 ## Run
 
-`yarn dev`
+`yarn serve`
